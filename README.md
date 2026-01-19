@@ -1,6 +1,7 @@
 # Expense Manager (ASP.NET 8 MVC)
 
 A simple **Expense Manager web application** built with **ASP.NET Core 8 MVC**. Built along with YouTube tutorial.
+
 This project allows users to track and categorize their expenses in the simplest way possible, while also serving as a hands-on learning project for ASP.NET MVC fundamentals.
 
 <img src="images/addEdit.png" />
